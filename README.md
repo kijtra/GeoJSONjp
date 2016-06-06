@@ -1,2 +1,3 @@
 # GeoJSONjp
-modev.
+
+moved to https://github.com/KsjGeoJSON
